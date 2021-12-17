@@ -1,0 +1,278 @@
+[
+    {
+      "name":"Nusantara Restaurant",
+      "address":"Jalan Surya Kencana nomor 1",
+      "delivery_charge": 15000,
+      "image":"https://www.icff.com.my/wp-content/uploads/2019/06/icff-logo-new-sq.jpg",
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 9:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 11:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 11:00 PM",
+        "Saturday":"10:00 AM - 2:00 PM"
+      },
+      "menus": [
+        {
+          "name": "Nasi Goreng",
+          "price": 20000,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Nasi_goreng_sari_laut.jpg/1200px-Nasi_goreng_sari_laut.jpg"
+        },
+        {
+          "name": "Soto Daging",
+          "price": 20000,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Soto_Madura_Daging.JPG"
+        },
+        {
+          "name": "Sate Kambing",
+          "price": 30000,
+          "url": "https://alchetron.com/cdn/sate-kambing-d0929303-975b-4f6c-adab-bc14a7de437-resize-750.jpeg"
+        },
+        {
+          "name": "Sate Ayam",
+          "price": 25000,
+          "url": "https://img-global.cpcdn.com/recipes/b1766eec0dfc0065/1200x630cq70/photo.jpg"
+        },
+        {
+          "name": "Ayam Goreng Sambal Hijau",
+          "price": 25000,
+          "url": "https://awsimages.detik.net.id/community/media/visual/2020/10/26/ayam-cabe-hijau_43.jpeg?w=700&q=90"
+        },
+        {
+          "name": "Rendang",
+          "price": 30000,
+          "url": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/2021/07/10/2140787252.jpg"
+        },
+        {
+          "name": "Dendeng Balado",
+          "price": 30000,
+          "url": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/07/06/908004434.png"
+        },
+        {
+          "name": "Bakmie Ayam",
+          "price": 15000,
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Mi_ayam_jamur.JPG/1200px-Mi_ayam_jamur.JPG"
+        },
+        {
+          "name": "Gorengan",
+          "price": 10000,
+          "url": "https://cdns.klimg.com/dream.co.id/resized/640x320/news/2021/04/21/165893/gorengan-sehat-untuk-berbuka-puasa-ini-caranya-210421v.jpg"
+        },
+        {
+          "name": "Nasi Uduk",
+          "price": 20000,
+          "url": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2019/04/16/3933031395.jpg"
+        }
+      ]
+    },
+    {
+      "name":"Western Restaurant",
+      "address":"Jalan Surya Kencana nomor 2",
+      "delivery_charge": 10000,
+      "image":"https://i.ebayimg.com/images/g/LCUAAOSwgYlcvCtg/s-l1600.jpg",
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 10:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 8:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 10:00 PM",
+        "Saturday":"9:00 AM - 1:00 PM"
+      },
+      "menus": [
+        {
+          "name": "Hot Dog",
+          "price": 25000,
+          "url": "https://awrestaurants.com/sites/default/files/hotdog_0.png"
+        },
+        {
+          "name": "Cheese Dog",
+          "price": 25000,
+          "url": "https://www.cookingpanda.com/wp-content/uploads/2020/07/7R26235-16x9-1-scaled.jpg"
+        },
+        {
+          "name": "Midway Monster",
+          "price": 30000,
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF2KzBUdwZjGoJIWIqHGHDozwcr3_oGrkhYQ&usqp=CAU"
+        },
+        {
+          "name": "Fries",
+          "price": 10000,
+          "url": "https://images.fineartamerica.com/images-medium-large-5/crinkle-cut-french-fries-full-frame-foodcollection.jpg"
+        },
+        {
+          "name": "Milkshake",
+          "price": 15000,
+          "url": "https://files.heftycdn.com/wp-content/uploads/2020/06/7c19980b4ec07e741b2823ea45370467.png"
+        },
+        {
+          "name": "Chocolate Shake",
+          "price": 15000,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chocolate-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+        },
+        {
+          "name": "Strawberry Shake",
+          "price": 15000,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Strawberry-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+        },
+        {
+          "name": "Filet-O-Fish",
+          "price": 25000,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Filet-O-Fish.png?$Product_Desktop$"
+        },
+        {
+          "name": "McNuggets",
+          "price": 15000,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chicken-McNuggets-4pc.jpg?$Product_Desktop$"
+        },
+        {
+          "name": "Combo Meal",
+          "price": 20000,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Big-Mac-Extra-Value-Meals.jpg?$Product_Desktop$"
+        },
+        {
+          "name": "McMuffin Meal",
+          "price": 25000,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Egg-McMuffin-Extra-Value-Meals.jpg?$Product_Desktop$"
+        }
+      ]
+    },
+  {
+    "name":"Chineese Restaurant",
+    "address":"Jalan Surya Kencana nomor 3",
+    "delivery_charge": 10000,
+    "image":"https://thumbs.dreamstime.com/b/chinese-noodle-restaurant-vector-logo-design-your-company-chinese-noodle-restaurant-vector-logo-design-167371225.jpg",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Fuyunghai",
+        "price": 20000,
+        "url": "https://cdn-2.tstatic.net/tribunnews/foto/bank/images/cara-bikin-fuyunghai-mengembang-dan-tebal-ala-restoran-chinese-food.jpg"
+      },
+      {
+        "name": "Capcay",
+        "price": 20000,
+        "url": "https://www.masakapahariini.com/wp-content/uploads/2020/10/cap-cay_edited-780x440.jpg"
+      },
+      {
+        "name": "Ifumi",
+        "price": 25000,
+        "url": "https://cdn.idntimes.com/content-images/post/20200213/72415177-2580583265313556-4566941848333410589-n-875f3cdf83756d3dfc74b884f8c813d2_600x400.jpg"
+      },
+      {
+        "name": "Dimsum",
+        "price": 25000,
+        "url": "https://asset.kompas.com/crops/DEDxeclyBPPZ2miRZhxGFJxhHU0=/0x175:800x708/750x500/data/photo/2021/01/18/60053789dc100.jpg"
+      },
+      {
+        "name": "Bapao B2",
+        "price": 20000,
+        "url": "https://assets-pergikuliner.com/S6OviZQeeqRs73kfy_am2byV-V4=/385x290/smart/https://assets-pergikuliner.com/uploads/image/picture/1738176/picture-1575969888.jpg"
+      },
+      {
+        "name": "Sapo Tahu",
+        "price": 20000,
+        "url": "https://asset-a.grid.id/crop/0x0:0x0/460x340/photo/2019/12/11/3421777771.jpg"
+      }
+    ]
+  },
+  {
+    "name":"Category Halal",
+    "address":"-",
+    "delivery_charge": 15000,
+    "image":"https://cdn0-production-images-kly.akamaized.net/itsS4De9ohMUgc5XvfpW-ll9hIM=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3003724/original/056186700_1577087866-Template_Landscape_1_.jpg",
+
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 9:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 11:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 11:00 PM",
+      "Saturday":"10:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Nasi Goreng",
+        "price": 20000,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Nasi_goreng_sari_laut.jpg/1200px-Nasi_goreng_sari_laut.jpg"
+      },
+      {
+        "name": "Soto Daging",
+        "price": 20000,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Soto_Madura_Daging.JPG"
+      },
+      {
+        "name": "Sate Kambing",
+        "price": 30000,
+        "url": "https://alchetron.com/cdn/sate-kambing-d0929303-975b-4f6c-adab-bc14a7de437-resize-750.jpeg"
+      },
+      {
+        "name": "Sate Ayam",
+        "price": 25000,
+        "url": "https://img-global.cpcdn.com/recipes/b1766eec0dfc0065/1200x630cq70/photo.jpg"
+      },
+      {
+        "name": "Ayam Goreng Sambal Hijau",
+        "price": 25000,
+        "url": "https://awsimages.detik.net.id/community/media/visual/2020/10/26/ayam-cabe-hijau_43.jpeg?w=700&q=90"
+      },
+      {
+        "name": "Rendang",
+        "price": 30000,
+        "url": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/2021/07/10/2140787252.jpg"
+      },
+      {
+        "name": "Dendeng Balado",
+        "price": 30000,
+        "url": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/07/06/908004434.png"
+      },
+      {
+        "name": "Bakmie Ayam",
+        "price": 15000,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Mi_ayam_jamur.JPG/1200px-Mi_ayam_jamur.JPG"
+      },
+      {
+        "name": "Gorengan",
+        "price": 10000,
+        "url": "https://cdns.klimg.com/dream.co.id/resized/640x320/news/2021/04/21/165893/gorengan-sehat-untuk-berbuka-puasa-ini-caranya-210421v.jpg"
+      },
+      {
+        "name": "Nasi Uduk",
+        "price": 20000,
+        "url": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2019/04/16/3933031395.jpg"
+      },
+      {
+        "name": "Sapo Tahu",
+        "price": 20000,
+        "url": "https://asset-a.grid.id/crop/0x0:0x0/460x340/photo/2019/12/11/3421777771.jpg"
+      },
+      {
+        "name": "Chocolate Shake",
+        "price": 15000,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chocolate-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Strawberry Shake",
+        "price": 15000,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Strawberry-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+      },
+      {
+        "name": "Filet-O-Fish",
+        "price": 25000,
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Filet-O-Fish.png?$Product_Desktop$"
+      }
+    ]
+  }
+]
